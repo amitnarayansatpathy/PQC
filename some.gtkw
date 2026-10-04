@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
+[*] Sat Oct 26 10:58:13 2024
+[*]
+[dumpfile] "/home/sriharsha/Documents/SHAKE.srcs/sources_1/new/test_keccak.vcd"
+[dumpfile_mtime] "Sat Oct 26 10:55:09 2024"
+[dumpfile_size] 375274
+[savefile] "/home/sriharsha/Documents/SHAKE.srcs/sources_1/new/some.gtkw"
+[timestart] 166200000000000
+[size] 1920 1080
+[pos] -461 -191
+*-43.361908 215030000000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] test_keccak.
+[treeopen] test_keccak.uut.
+[sst_width] 243
+[signals_width] 160
+[sst_expanded] 1
+[sst_vpaned_height] 321
+@28
+test_keccak.uut.f.out_ready
+@22
+test_keccak.uut.piso.data[1343:0]
+@28
+test_keccak.uut.piso.count_zero
+test_keccak.uut.piso.out_ready
+test_keccak.uut.piso.shift_en
+@23
+test_keccak.uut.cntr_out[4:0]
+[pattern_trace] 1
+[pattern_trace] 0
