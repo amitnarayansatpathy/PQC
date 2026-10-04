@@ -6,8 +6,6 @@ https://drive.google.com/file/d/1pPm-UPyuYmzK-0nBejH3o-XKQMv3bkUT/view?usp=drive
 
 # Hardware Implementation of Keccak (SHA-3 / SHAKE) for Post-Quantum Cryptography
 
-> A synthesisable RTL implementation of the Keccak sponge construction in Verilog, supporting SHA-256, SHA-512, SHAKE-128, and SHAKE-256. Motivated by the role of Keccak as a foundational primitive in NIST Post-Quantum Cryptography standards — Kyber and Dilithium.
-
 ---
 
 ## Table of Contents
